@@ -1,9 +1,11 @@
-<!DOCTYPE html>
 <html>
     <head>
-        <title>Ajax</title>
+        <title>
+            First Web Page
+        </title>
     </head>
+  
     <body>
-        <p>My First Project</p>
+        Hello World!
     </body>
 </html>
